@@ -11,6 +11,18 @@ Below is a summary of the theory behind this implementation. This was inspired f
 
 # Results
 
+## Regular Gravity
+
+<video width="400" src="assets/classical1.mp4"/>
+
+## Moving Gravity 
+
+<video width="400" src="assets/movinggravity1.mp4"/>
+
+## Dam Break
+
+<video width="400" src="assets/dambreak2.mp4"/>
+
 # SPH Fundamentals
 
 In Smooth Particles Hydrodynamics (SPH), fluid properties are carried by discrete particles. Any field quantity $A$ at a position $\mathbf{r}$ is interpolated by summing contributions from neighboring particles $j$, weighted by a smoothing kernel $W$ with a characteristic smoothing radius $h$:

@@ -13,15 +13,15 @@ Below is a summary of the theory behind this implementation. This was inspired f
 
 ## Regular Gravity
 
-<video width="400" src="assets/classical1.mp4"/>
+<img width="400" alt="gif" src="assets/classical.gif">
 
 ## Moving Gravity 
 
-<video width="400" src="assets/movinggravity1.mp4"/>
+<img width="400" alt="gif" src="assets/movinggravity.gif">
 
 ## Dam Break
 
-<video width="400" src="assets/dambreak2.mp4"/>
+<img width="400" alt="gif" src="assets/dambreak.gif">
 
 # SPH Fundamentals
 
